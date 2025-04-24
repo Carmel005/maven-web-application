@@ -96,13 +96,13 @@
       <repository>
         <id>nexus</id>
         <name>Landmark Technologies Releases Nexus Repository</name>
-        <url>http://3.80.111.72:8081/repository/Japp_release/</url>
+        <url>http://23.20.170.97:8081/repository/jooapp_release/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
         <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url>http://3.80.111.72:8081/repository/Japp-snapshot/</url>
+        <url>http://23.20.170.97:8081/repository/jooapp_snapshot/</url>
       </snapshotRepository>
       
   </distributionManagement>
